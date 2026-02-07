@@ -82,7 +82,7 @@ const playlistData = {
   rock: [
     {
       title: "Rock Classics",
-      cover: "assets/Charlie-Puth.webp",
+      cover: "Charlie-Puth.webp",
       songs: [
         { name: "How long", src: "songs/Charlie Puth - _How Long_ [Official Video].mp3" },
         { name: "I dont wanna live forever", src: "songs/WYWn4V7m21i-qppBhaUDAZuJ7JJHKUudoTL1RjJnjQ3hPMXfGQYUqaddHeLKeYShbt8bmzu1J8P_GPU-w0NZsojPnmg0hqtrNF51voOWD8IcDMIhO72xB-DLJbNML5lllibkeG3LtwctyfC2mIfvT1eeRfbGa3A2R3FQ_aE29X0Nx1Wjog.mp3" },
